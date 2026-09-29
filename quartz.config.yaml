@@ -142,12 +142,12 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 10
