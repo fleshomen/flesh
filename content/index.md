@@ -1,5 +1,5 @@
 ---
-title: Welcome to Flesh
+Welcome to Flesh
 ---
 My name is Wren and this is a diary. It will see many things and be many places in it's life and death.
 
